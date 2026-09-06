@@ -1,0 +1,10 @@
+sources:
+
+  otx:
+    api_key: "YOUR_OTX_KEY"
+
+  abuseipdb:
+    api_key: "YOUR_ABUSEIPDB_KEY"
+  
+  threatfox:
+    api_key: "YOUR_THREATFOX_KEY"
